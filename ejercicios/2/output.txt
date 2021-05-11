@@ -1,0 +1,1 @@
+{"freemen":9839308800,"architecture":"x64","homedir":"C:\\Users\\Rubén"}
