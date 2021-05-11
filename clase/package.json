@@ -1,0 +1,21 @@
+{
+  "name": "codehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:files": "node 01-files.js",
+    "start:os": "node 02-os.js",
+    "start:fs": "node 03-fs.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^9.0.2"
+  },
+  "devDependencies": {}
+}
