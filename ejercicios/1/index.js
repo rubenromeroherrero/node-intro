@@ -21,3 +21,8 @@ const transformPkg = pkg.toString("utf-8");
 const upperPkg = stringUtils.capitalize(transformPkg);
 console.log(upperPkg);
 
+//----------------------------------------
+/* sirve para ver la dirección en la cual aplicamos el run 
+console.log(process.cwd);
+*/
+
